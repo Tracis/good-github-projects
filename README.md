@@ -1,4 +1,4 @@
-# Good GitHub Projects
+# Good GitHub Projects
 
 github上一些不错的项目。
 
@@ -16,7 +16,7 @@ github上一些不错的项目。
 
 ## 项目类
 
-- [前端项目](https://github.com/Tracis/good-github-projects/blob/master/Frontend.md)
+- [前端项目](https://github.com/Tracis/good-github-projects/blob/master/Frontend.md)
 
 - [Ruby On Rails](https://github.com/Tracis/good-github-projects/blob/master/RubyOnRails.md)
 
