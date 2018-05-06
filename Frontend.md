@@ -42,7 +42,14 @@
   - React无限滚动，ES6语法
   - ★900+
 - [Img2:使用 < img-2> 取代 < img>](https://github.com/RevillWeb/img-2)
-  - 一个 WebComponent 组件，使用 < img-2> 取代 < img>，可以只显示第一屏的图片，其他图片通过 Web Worker 预下载，一旦该图片进入可视区域后再加载显示。.
+  - 一个 WebComponent 组件，使用 < img-2> 取代 < img>，可以只显示第一屏的图片，其他图片通过 Web Worker 预下载，一旦该图片进入可视区域后再加载显示。
+- [spectrum: 简单、强大的网上社区](https://github.com/withspectrum/spectrum)
+  - 开源的社区软件，形式非常新颖美观。
+- [flamebearer火焰图工具](https://github.com/mapbox/flamebearer)
+  - Node 应用的火焰图生成工具，用于性能分析。
+- [merge-images:将多张图片合并成一章图片](https://github.com/lukechilds/merge-images)
+  - 多张图片合成一张图片的浏览器 JS 库，使用了 Canvas。
+- [tabler:一个基于 Bootstrap4 的面板（dashboard）组件库。](https://github.com/tabler/tabler)
 
 ## 其他
 

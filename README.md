@@ -8,7 +8,7 @@ github上一些不错的项目。
   - 编程类
   - 非编程类
 - [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
-- [GitHub上最受欢迎的20个课程仓库](https://education.github.community/t/20-of-the-most-popular-courses-on-github/27832)
+- [GitHub上最受欢迎的20个课程仓库](https://education.github.community/t/20-of-the-most-popular-courses-on-github/27832)
 
 ## 知识总结类
 
@@ -20,13 +20,13 @@ github上一些不错的项目。
 
 - [前端项目](https://github.com/Tracis/good-github-projects/blob/master/Frontend.md)
 
-- [Ruby On Rails](https://github.com/Tracis/good-github-projects/blob/master/RubyOnRails.md)
+- [Ruby On Rails](https://github.com/Tracis/good-github-projects/blob/master/RubyOnRails.md)
 
 - [微信](https://github.com/Tracis/good-github-projects/blob/master/WeChat.md)
 
 ## 工具类
 
-- [rebound: 报错时从Stack Overflow取回报错信息](https://github.com/shobrook/rebound)
+- [rebound: 报错时从Stack Overflow取回报错信息](https://github.com/shobrook/rebound)
 
 ## 使用类
 
