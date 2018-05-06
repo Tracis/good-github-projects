@@ -1,5 +1,7 @@
 # Good GitHub Projects
 
+github上一些不错的项目。
+
 ## 教程类
 
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -8,44 +10,30 @@
 
 ## 知识总结类
 
-- [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
-  - 发掘被我们忽略的前端知识点。
+- [code-review-tips：代码review技巧](https://github.com/ryanmcdermott/code-review-tips)
+  - 代码review中常见的问题
+  - ★ 300+
 
-## 工具类
+## 项目类
 
-- [create-react-app开发React应用最好用的脚手架](https://github.com/facebook/create-react-app)
+- [前端项目](https://github.com/Tracis/good-github-projects/blob/master/Frontend.md)
 
-  - Create React apps with no build configuration
-  - ★40000+
+- [Ruby On Rails](https://github.com/Tracis/good-github-projects/blob/master/RubyOnRails.md)
 
-- [puppeteer: Google 官方出品的 headless Chrome node 库](https://github.com/GoogleChrome/puppeteer)
+- [微信](https://github.com/Tracis/good-github-projects/blob/master/WeChat.md)
 
-  - Puppeteer 提供了一系列的 API，可以在无 UI 的情况下调用 Chrome 的各种功能，适用于爬虫、自动化处理等各种情景。
-  - ★30000+
+## 工具使用类
 
-- [dayjs: Moment.js 的 2kB 轻量化方案，拥有同样强大的 API](https://github.com/xx45/dayjs)
-
-  - Day.js 是一个轻量的 JavaScript 时间日期处理库，和 Moment.js 的 API 设计保持完全一样. 如果你曾经用过 Moment.js, 那么你已经知道如何使用 Day.js
-  - ★7000+
-
-- [json-server: 快速「伪造」后台接口](https://github.com/typicode/json-server?utm_source=gold_browser_extension)
-
-  - 零代码、30S 快速伪造后台接口
-
-- [axios: 利用 Promise 编写的 HTTP 客户端](https://github.com/axios/axios)
-  - 为浏览器和 Node.js 编写的 HTTP 客户端。
-  - ★4000+
-
-- [pixo](https://github.com/c8r/pixo)
-  - 将SVG图标转换为React组件
-  - ★150+
-- [tui.calendar: 一个功能强大的日历](https://github.com/nhnent/tui.calendar)
-  - 一个有你需要的一切的js日历
-  - ★ 3000+
-
-- [LoginCritter](http://note.youdao.com/)
-
-## 技巧类
+- [vscode使用教程](https://github.com/xuanhun/vscode)
+- [linux命令使用](https://github.com/jaywcjlove/linux-command)
+  - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+  - ★ 1.7k+
+- [git使用教程](https://github.com/xirong/my-git)
+  - 有关 git 的学习资料
+  - ★ 1.7k+
+- [mac系统使用教程](https://github.com/smyhvae/Mac)
+  - Mac系统、Mac软件的操作和使用技巧整理，正在不断完善中。努力做到最全。
+  - ★ 300+
 
 ## 人文类
 
@@ -53,3 +41,7 @@
 
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
   - 中国程序员容易发音错误的单词
+
+## LOL Announcer
+
+- [Announcer](http://leagueoflegends.wikia.com/wiki/Announcer)
