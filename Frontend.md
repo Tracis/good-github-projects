@@ -41,6 +41,8 @@
 - [react-infinite-scroller: react无限滚动](https://github.com/CassetteRocks/react-infinite-scroller)
   - React无限滚动，ES6语法
   - ★900+
+- [Img2:使用 < img-2> 取代 < img>](https://github.com/RevillWeb/img-2)
+  - 一个 WebComponent 组件，使用 < img-2> 取代 < img>，可以只显示第一屏的图片，其他图片通过 Web Worker 预下载，一旦该图片进入可视区域后再加载显示。.
 
 ## 其他
 
