@@ -1,4 +1,4 @@
-# code-review-tips(代码评审的技巧)
+# code-review-tips(代码评审的技巧)[(英文版请戳这里)](https://github.com/ryanmcdermott/code-review-tips)
 
 - [code-review-tips(代码评审的技巧)](#code-review-tips)
   - [1. 引言](#1)
