@@ -15,6 +15,7 @@ github上一些不错的项目。
 - [code-review-tips：代码review技巧](https://github.com/ryanmcdermott/code-review-tips)
   - 代码review中常见的问题
   - ★ 300+
+  - [中文版请戳这里]((https://github.com/Tracis/good-github-projects/blob/master/code-review-tips.md))
 
 ## 项目类
 
