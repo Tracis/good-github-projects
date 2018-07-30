@@ -1,6 +1,6 @@
 # code-review-tips(代码评审的技巧)[(英文版请戳这里)](https://github.com/ryanmcdermott/code-review-tips)
 
-- [code-review-tips(代码评审的技巧)(英文版请戳这里)](#code-review-tips)
+- [code-review-tips(代码评审的技巧)(英文版请戳这里)](#code-review-tipshttps---githubcom-ryanmcdermott-code-review-tips)
   - [1. 引言](#1)
   - [2. 为什么要进行代码评审？](#2)
   - [3. 基本内容](#3)
@@ -374,7 +374,7 @@ router.route('/request-ride').post((req, res) => {
 function payEmployeeSalary(employeeId, amount, callback) {
   db.get('EMPLOYEES', employeeId).then(user => {
     return sendMoney(user, amount);
-  }).then(res => {  
+  }).then(res => {
     if (callback) {
       callback(res);
     }
@@ -412,7 +412,6 @@ assert(date1 === '1/6/2017');
 ## 10. 其他
 
 > 一切都可以被归类到其他
-
 > ——萧伯纳
 
 ### 10.1 应该追踪TODO注释

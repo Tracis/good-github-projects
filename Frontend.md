@@ -51,6 +51,19 @@
   - 多张图片合成一张图片的浏览器 JS 库，使用了 Canvas。
 - [tabler:一个基于 Bootstrap4 的面板（dashboard）组件库。](https://github.com/tabler/tabler)
 
+## 工具
+
+- [browserslist:将多张图片合并成一章图片](https://github.com/lukechilds/merge-images)
+  - Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env。
+
+- [Webpack 中文指南](https://zhaoda.net/webpack-handbook/)
+
+- [前端自动化测试](https://github.com/karma-runner/karma)
+
+## 移动端
+
+- [移动前端适配利器rem](http://www.alloyteam.com/2016/03/mobile-web-adaptation-tool-rem/)
+
 ## 其他
 
 - [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
@@ -60,4 +73,10 @@
   - ★700+
 - [gatsby: 快速生成静态站点](https://github.com/gatsbyjs/gatsby)
   - 快速生成静态站点
-  - ★20k+
+  - ★20k
+- [在已有网站中加入React](https://reactjs.org/docs/add-react-to-a-website.html)
+- [Xia-Ao的前端笔记](https://github.com/Xia-Ao/Notes)
+- [ecmadao/Coding-Guide自己随手记录的东西](https://github.com/ecmadao/Coding-Guide)
+- [Web-Series](https://github.com/wxyyxc1992/Web-Series)
+  - 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
+  - ★3k+

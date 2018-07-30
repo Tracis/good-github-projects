@@ -9,6 +9,7 @@ github上一些不错的项目。
   - 非编程类
 - [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 - [GitHub上最受欢迎的20个课程仓库](https://education.github.community/t/20-of-the-most-popular-courses-on-github/27832)
+- [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes?utm_source=gold_browser_extension)
 
 ## 知识总结类
 
@@ -64,6 +65,8 @@ github上一些不错的项目。
 
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
   - 中国程序员容易发音错误的单词
+
+- [Travel Destinations 是一个追踪我想访问目的地的简单的应用程序](https://github.com/udacity/course-collaboration-travel-plans)
 
 ## LOL Announcer
 
