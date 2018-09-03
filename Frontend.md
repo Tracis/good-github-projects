@@ -60,9 +60,24 @@
 
 - [前端自动化测试](https://github.com/karma-runner/karma)
 
+- [dumper.js](https://github.com/zeeshanu/dumper.js)
+
+  - 一个用于调试时方便打印变量值的 JS 库。
+
 ## 移动端
 
 - [移动前端适配利器rem](http://www.alloyteam.com/2016/03/mobile-web-adaptation-tool-rem/)
+
+## 教程
+
+- [TypeScript 入门教程](https://ts.xcatliu.com/basics/type-assertion.html)
+- [TypeScript Handbook（中文版）](https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details)
+- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+
+- [Redux 中文文档](http://www.redux.org.cn/)
+
+- [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+
 
 ## 其他
 
@@ -80,3 +95,5 @@
 - [Web-Series](https://github.com/wxyyxc1992/Web-Series)
   - 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
   - ★3k+
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+  - ★6k+

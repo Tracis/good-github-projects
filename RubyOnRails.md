@@ -29,3 +29,8 @@
 
   - Liquid markup language. Safe, customer facing template language for flexible web apps. http://liquidmarkup.org/
   - 6k+
+
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+
+  - dev.to 是一个互联网开发者社区，最近开源了自身的代码，使用 Ruby 语言。你可以用它搭建自己的社区。
+  - 6k+
