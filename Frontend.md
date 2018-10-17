@@ -64,6 +64,10 @@
 
   - 一个用于调试时方便打印变量值的 JS 库。
 
+- [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
+  - 《Node.js 调试指南》一书的开源版。
+  - 4k+
+
 ## 移动端
 
 - [移动前端适配利器rem](http://www.alloyteam.com/2016/03/mobile-web-adaptation-tool-rem/)
@@ -78,6 +82,7 @@
 
 - [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
+- [前端每日实战](https://github.com/comehope/front-end-daily-challenges)
 
 ## 其他
 

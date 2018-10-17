@@ -17,6 +17,9 @@ github上一些不错的项目。
   - 代码review中常见的问题
   - ★ 300+
   - [中文版请戳这里](https://github.com/Tracis/good-github-projects/blob/master/code-review-tips.md)
+  
+- [学习计算机科学的一些资源](https://github.com/tolerious/Programming_learning_resource)
+  - 一些书
 
 ## 项目类
 
